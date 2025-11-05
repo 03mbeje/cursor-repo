@@ -1,0 +1,41 @@
+I want to build a simple Super Mario Bros–style platformer game in the browser using Kaboom.js. Please create a project with the following setup:
+
+Project files:
+
+index.html → load Kaboom.js and link to the game script.
+
+style.css → simple styles (center the canvas, maybe a background color).
+
+game.js → main game logic.
+
+Game requirements:
+
+Use Kaboom.js to initialize the game.
+
+Add a player character (a simple rectangle or sprite placeholder).
+
+Allow the player to move left/right with arrow keys and jump with spacebar.
+
+Add gravity and a ground platform the player can walk and land on.
+
+Create a simple level map with a few blocks and platforms.
+
+Add at least one enemy (e.g., a moving rectangle) that the player must avoid or stomp.
+
+Add at least one collectible item (like a coin) that increases score when collected.
+
+Make the camera follow the player as they move through the level.
+
+Extras (optional if time allows):
+
+Add a basic score counter on screen.
+
+Add simple sound effects for jumping and collecting items.
+
+Organize code so I can easily expand the game with more levels later.
+
+Instructions:
+
+Include comments in the code explaining how each part works (so I can learn).
+
+Keep everything beginner-friendly and avoid overly complex features.
